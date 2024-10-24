@@ -1,4 +1,4 @@
-﻿namespace Lab2Find
+﻿namespace Find
 {
     public static class Program
     {
@@ -29,7 +29,7 @@
         }
 
         public static void WriteStdInputContainingString(string s)
-        { 
+        {
             var current = Console.ReadLine();
             while (current != null)
             {

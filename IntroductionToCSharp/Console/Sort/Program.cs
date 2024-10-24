@@ -1,4 +1,4 @@
-﻿namespace Lab2Sort
+﻿namespace Sort
 {
     public static class Program
     {

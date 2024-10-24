@@ -1,10 +1,12 @@
-﻿namespace MyFirstConsoleApp
+﻿using System;
+
+namespace HelloWorld
 {
     public static class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine($"Hello, {args[0]} !");
+            Console.WriteLine($"Hello world!");
         }
     }
 }
