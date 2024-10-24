@@ -48,7 +48,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Input Files", "Input Files", "{2111FF8B-B34A-419C-A214-610CF92A02A0}"
 	ProjectSection(SolutionItems) = preProject
 		..\TestFiles\geometry.csv = ..\TestFiles\geometry.csv
-		..\TestFiles\geometry.xlsx = ..\TestFiles\geometry.xlsx
 		..\TestFiles\haus.ifc = ..\TestFiles\haus.ifc
 	EndProjectSection
 EndProject
